@@ -1,12 +1,12 @@
 class _BotCommands:
     def __init__(self):
-        self.LeechCommand = 'leech'
-        self.gLeechCommand = 'gleech'
+        self.LeechCommand = 'leech2'
+        self.gLeechCommand = 'gleech2'
         self.ExtractCommand = 'extract'
         self.gExtractCommand = 'gextract'
         self.ArchiveCommand = 'archive'
         self.gArchiveCommand = 'garchive'
-        self.telegramfleechCommand = 'tleech'
+        self.telegramfleechCommand = 'tleech2'
         self.telegramexleechCommand = 'tleechextract'
         self.gcloneCommand = 'gclone'
         self.YtdlCommand = 'ytdl'
